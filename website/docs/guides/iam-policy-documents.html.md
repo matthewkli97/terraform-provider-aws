@@ -49,7 +49,7 @@ These configuration methods are the simplest and most powerful within Terraform.
 
 ### aws_iam_policy_document Data Source
 
--> For complete implementation infromation and examples, see the [`aws_iam_policy_document` data source documentation](/docs/providers/aws/d/iam_policy_document.html).
+-> For complete implementation information and examples, see the [`aws_iam_policy_document` data source documentation](/docs/providers/aws/d/iam_policy_document.html).
 
 ```hcl
 data "aws_iam_policy_document" "example" {
